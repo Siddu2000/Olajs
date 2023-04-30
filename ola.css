@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+#a{
+    display: flex;
+}
+#b{
+    margin-left: 100px;
+}
+#c{
+    margin-left: 100px;
+}
+#d{
+    margin-left: 100px;
+}
+#f{
+    margin-left: 180px;
+    height: 20px;
+    width: 50px;
+}
+#g{
+    margin-left: 386px;
+    height: 20px;
+    width: 50px;
+}
+#h{
+    margin-left: 366px;
+    height: 20px;
+    width: 50px;
+}
+#btn1{margin-left: 180px;}#btn2{margin-left:380px;} #btn3{margin-left: 360px;} 
+#z1{margin-left: 50px; display: flex;}#i2{height: 20px; width: 50px;} #i3{height: 20px; width: 50px;}
+#i1{height: 20px; width: 50px;}
